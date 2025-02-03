@@ -1,5 +1,5 @@
 ---
-title: Bonnington Mains Quarry - A Deep Dive into the Planning Application and How to Object
+title: A Deep Dive into the Planning Application and How to Object
 date: 2025-02-01
 categories: [planning, environment, local]
 tags: [quarry, vibration, blasting, planning policy, objections]
