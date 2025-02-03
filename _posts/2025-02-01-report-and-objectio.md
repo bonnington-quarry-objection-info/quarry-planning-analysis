@@ -1,83 +1,95 @@
 ---
-
-title: Detailed Report on Bonnington Mains Quarry Expansion
-
+title: Bonnington Mains Quarry: A Deep Dive into the Planning Application and How to Object
 date: 2025-02-01
-
 categories: [planning, environment, local]
-
-tags: [quarry, dust, air quality, planning policy, objections]
-
+tags: [quarry, vibration, blasting, planning policy, objections]
 ---
 
-## Report on Bonnington Mains Quarry Expansion
+This post provides an in-depth analysis of the planning application for the proposed expansion of Bonnington Mains Quarry. It draws upon information from the provided sources and our previous conversations to offer a comprehensive understanding of the project, address key concerns, and guide residents in formulating effective objections.
 
-This report examines the planning application for the Bonnington Mains Quarry, focusing on potential breaches of the City Plan 2030 and the National Planning Framework 4 (NPF4). The application, submitted by Breedon Trading Ltd and Brewster Brothers Ltd, seeks permission for a lateral extension to the quarry, the erection of a Materials Recycling Plant (MRP), infilling of the quarry, and restoration to agricultural grassland [1-4].
+#### Project Overview
 
-### Overview of the Proposed Development
+**Breedon Trading Limited and Brewster Brothers Limited** have jointly submitted a planning application to extend operations at Bonnington Mains Quarry. The application seeks permission for:
 
-The proposal involves several key components [1]:
+*   A **south-westerly lateral extension** of the existing quarry.
+*   The **erection and operation of a Materials Recycling Plant (MRP)** to process incoming waste and produce recycled aggregates.
+*   The **infilling of the quarry void** using residual material from the MRP, restoring the land to its approximate original level.
+*  The **restoration of the site** to agricultural grassland.
 
-*   **Lateral Quarry Extension:** Expanding the quarry in a south-westerly direction [1, 5]. The site area extends to 28 hectares [6].
-*   **Materials Recycling Plant (MRP):** A new facility to process waste into recycled aggregates and a residual clay/silt material [1, 4, 5, 7, 8].
-*  **Infilling:**  Using the residual material from the MRP to infill the quarry void [1, 4, 5, 7, 8]. The infilling operation will be carried out under the terms of a Waste Management Licence (WML) or WML exemption [9, 10].
-*   **Restoration:** Returning the site to agricultural grassland [1, 4, 5, 7, 8]. Completion of extraction and infilling is planned for September 3, 2050, with restoration by September 3, 2052 [2].
+The proposed development site is located at Bonnington Mains Quarry, Cliftonhall Road, Newbridge, Edinburgh, EH28 8PW. The total site area is **28.0 hectares** [1, 2]. The applicants state that the proposal aligns with **Policy Inf 20** (mineral extraction) and **Policy Inf 18** (waste management) of the adopted Edinburgh City Plan 2030 [1]. The application is not for a temporary permission.
 
-### Policy Context
+#### Pre-Application Consultation
 
-The applicants argue that the proposal is supported by Policy Inf 20 of the Edinburgh City Plan 2030, which backs mineral extraction, and Policy Inf 18, which supports waste management facilities within operational quarries [1]. They also claim alignment with NPF4 [11]. The City Plan 2030 aims to guide development and investment choices, providing a basis for planning decisions [12-14].
+The applicants undertook a pre-application consultation process, including:
 
-### Potential Breaches and Policy Violations
+*   Submission of a **Proposal of Application Notice (PoAN)** on August 1, 2023 [3, 4].
+*   A public consultation webpage launched on July 31, 2023 [5].
+*   A letter drop to **281 nearby residential properties** [4].
+*   Two public events held at **Ratho Community Centre** on August 28 and October 2, 2023 [4].
+*   Public notices in the **Edinburgh Evening News** [4, 6].
+*   Various feedback methods including verbal feedback, feedback forms, email and post [7].
+*   The PoAN was also sent to the **Pentland Hills Ward Councillors, Alex Cole-Hamilton MSP and Christine Jardine MSP** [3, 8].
+*   A **Scoping Opinion** was issued by the City of Edinburgh Council on 9th October 2023 [9, 10].
 
-Despite the applicant's claims of alignment with planning policies, there are several areas where the proposal may breach or be in danger of violating the City Plan 2030 and NPF4.
+The City of Edinburgh Council approved the proposed consultation subject to additional consultation with local constituency MP & MSPs and engagement with the local community council in accordance with the Edinburgh Planning Concordat [11].
 
-#### City Plan 2030
+#### Key Application Details
 
-*   **Policy Env 18 - Development in the Green Belt and Countryside:** This policy requires development not to detract from the rural environment or landscape quality [15]. The quarry extension, despite claims of limited impact, may alter the character and views of the countryside, especially with the new MRP [15, 16].
-*   **Policy Env 33 - Amenity:** This policy seeks to protect the amenity of neighboring properties regarding noise [17]. The extended operations, including the MRP and blasting, could lead to significant noise issues [17, 18]. The existing quarry is already considered a noise-sensitive receptor [19].
-*   **Policy Env 34 - Pollution and Air, Water, and Soil Quality:** This policy aims to prevent adverse effects on soil quality [20]. The infilling and MRP operations could risk soil and water quality if not managed correctly [21]. It also seeks to protect air quality. The operation of the MRP, as well as increased traffic, may impact air quality [22-24].
-*   **Policy Env 35 - Reducing Flood Risk:** This policy states that development should not increase flood risk [21]. While the application includes a drainage strategy, the increased dewatering and scale of the development could increase flood risk [25, 26].
-*   **Policy Env 36 - Designing for Surface Water:** This policy promotes sustainable urban drainage systems (SUDS) and discourages surface water connections to combined sewers [21, 26]. The application intends to use SUDS, but the effectiveness needs to be ensured [21].
-*   **Policy Inf 4 - Provision of Transport Infrastructure:** This policy requires proposals that generate significant traffic to demonstrate adequate transport infrastructure [27]. While the application claims no change in permitted quarry output, the socio-economic assessment indicates that the site will provide a significant contribution to aggregates supply in the local area, implying peak traffic levels will be maintained [27, 28]. This may require a transport assessment to assess the impact of maintaining peak traffic levels.
-*   **Policy Inf 20 - Minerals:** While supporting mineral extraction, this policy is contingent on meeting other environmental protection policies. Breaches of policies protecting amenity and the environment will also violate this policy [29-32].
+*   **Planning Fee**: The application fee is **£108,000** [2].
+*   **Site Characteristics**: The site is a **hard rock quarry and agricultural land** [9].
+*   **Access**: No new or altered vehicle access to or from a public road is proposed [9].
+*   **Schedule 3 Development**: The proposal is classified as Schedule 3 development under the Town and Country Planning regulations [12].
 
-#### National Planning Framework 4 (NPF4)
+#### Environmental Impact Assessment (EIA)
 
-*   **Policy 3 - Biodiversity:** NPF4 requires developments to enhance biodiversity [33, 34]. Initial habitat loss from the quarry extension may lead to a biodiversity deficit if not mitigated properly [34]. The site is known to have Great Crested Newts, which require protection [35, 36].
-*   **Policy 12 - Zero Waste:** This policy addresses waste infrastructure, requiring an assessment of noise impact [18, 37, 38]. The MRP is likely to increase noise, necessitating further consideration of this impact [37].
-*   **Policy 22 - Flood Risk and Water Management:** This policy aims to prevent increased flood risk and ensure proper water management [33, 39]. The increased dewatering rate and scale of the development could pose a flood risk [33, 39-41].
-*   **Policy 33 - Minerals:** While supporting mineral extraction, this policy also requires acceptable impacts on noise, dust, vibration, and pollution [21, 42]. Breaches of other policies regarding these impacts will also breach Policy 33 [21, 42].
-*    **Transport Assessment:** NPF4 requires a transport assessment if a proposal will generate a significant increase in person trips, or increase reliance on the private car [43]. The application has not demonstrated that maintaining peak traffic levels will not have an adverse impact, and a transport assessment may be required [27].
+An Environmental Impact Assessment (EIA) has been conducted to assess the likely environmental effects of the proposal [13]. The EIA report comprises multiple volumes:
 
-### Detailed Objections for Local Residents
+*   **Volume 1**: Written Statement [14].
+*   **Volume 2**: Figures.
+*   **Volume 3**: Appendices.
+*   **Volume 4**: Non-Technical Summary (NTS) [15].
 
-Here are detailed objections that local residents can use in letters to the planning department, citing the relevant policies:
+The EIA process includes assessments of:
 
+*   Landscape and Visual Impact [16].
+*   Ecology [17].
+*   Water Environment [18].
+*   Noise [19].
+*   Dust and Air Quality [20].
+*   Vibration [21].
+*   Archaeology and Cultural Heritage [22].
+*   Traffic and Transport [23].
 
-## Objections to Bonnington Mains Quarry Expansion
+The EIA report was informed by a scoping opinion received from the City of Edinburgh Council [10].
 
-As a local resident, I am writing to object to the proposed expansion of Bonnington Mains Quarry. This development poses significant risks to our community and the environment, and it contravenes several policies within the City Plan 2030 and the National Planning Framework 4 (NPF4).
+Copies of the full Environmental Statement can be obtained for a fee of £275 (paper copy) or £25 (USB) [15].
 
-### Specific Objections:
+#### Key Concerns and Potential Issues
 
-*   **Landscape and Visual Impact:** The quarry extension and the Materials Recycling Plant (MRP) will negatively impact the rural environment and landscape character, contravening City Plan 2030, Policy Env 18, and NPF4 policy 3 which seeks to enhance biodiversity [15, 16].
-*   **Noise Pollution:** The proposed expansion, including the MRP, will likely increase noise levels, impacting the amenity of nearby residents. This is in violation of City Plan 2030, Policy Env 33, and NPF4, Policy 12 d) which requires a noise impact assessment for waste infrastructure [17, 18].
-*   **Air Quality:** The operation of the MRP and increased vehicle movements may worsen air quality, contravening City Plan 2030, Policy Env 34, and NPF4 policy 33 d) iv) which requires mineral extraction to have acceptable pollution levels [22-24].
-*   **Water and Soil Quality:** The infilling process and MRP operations could pollute soil and water, violating City Plan 2030, Policy Env 34, and NPF4 Policy 33 d) iv) [21, 26]. The increased discharge rate from dewatering may also negatively impact the environment [26, 40, 41].
-*   **Flood Risk:** The increased dewatering rate and scale of the development could lead to increased flood risk, contravening City Plan 2030, Policy Env 35, and NPF4 Policy 22 [21, 26].
-*   **Transport:** The application states that there is no proposed change to traffic levels, however the socio-economic impact statement suggests that the development will support a significant aggregate supply in the local area, implying that peak traffic levels are to be maintained. The application has not provided sufficient evidence to confirm there will be no adverse impact on local roads. This contravenes City Plan 2030 Policy Inf 4, and NPF4 which requires a transport assessment for proposals which will generate a significant increase in person trips or which would increase reliance on the private car [27, 28].
-*   **Biodiversity:** Initial habitat loss from the quarry extension is not adequately addressed to ensure replacement or enhancement, violating NPF4, Policy 3 [33-36].
-*   **Cumulative Effects:** The application fails to adequately assess the cumulative effects of this development in combination with other developments, which is a requirement of both NPF4 and the planning department [44, 45].
+Several concerns and potential issues have emerged from the provided documents that residents should consider when objecting to the application:
 
-### Conclusion
+1.  **Visual Impact and Landscape**: The Landscape and Visual Impact Assessment (LVIA) has been carried out [16]. The impact on the rural landscape is a potential concern [24]. The site is located within Landscape Character Type (LCT) 274 Lowland Plain. Residents may argue that the quarry extension will negatively impact the rural landscape. **Policy Env 18** of the City Plan 2030 requires that development in the countryside should not be detrimental to the rural environment [24]. **NPF4 policy 33** states that mineral developments should not cause significant adverse landscape and visual impacts [24-26].
+2.  **Environmental Impact**: There is a potential risk of **groundwater contamination** from infilling using residual materials from the MRP [18]. The application also needs to address concerns about **dust and noise** [27]. An air quality assessment has been conducted [20]. **Policy Env 34** of the City Plan 2030 states that planning permission should not be granted if there are significant adverse effects to ground stability [28]. **NPF4 policy 33** requires that mineral extraction must show acceptable levels of noise, dust, vibration and pollution of land, air and water [25, 26].
+3.  **Traffic and Transportation**: Although the applicants state that there will be no change in traffic [29], residents may argue that the cumulative impact of the proposed development with other projects like the **Lost Shore Surf Resort** has not been adequately considered. **Policy Inf 4** of the City Plan 2030 requires that developments generating significant traffic must demonstrate that transport infrastructure has been addressed [29]. **NPF4 policy 19** discourages proposals that increase reliance on private car use [26]. A transport assessment should be carried out to assess all potential transport impacts of the proposed development [30].
+4.  **Biodiversity**: The impact on local habitats and species, including the **Great Crested Newt**, needs to be addressed [17, 31]. Although the applicants have plans to improve biodiversity, the quarry expansion will cause some damage. An eDNA survey was carried out and no great crested newts were found [32, 33].  **Policy Env 21** of the City Plan 2030 aims to prevent significant adverse effects on the integrity of local habitats [34]. **NPF4 policy 3** requires proposals to enhance biodiversity [35]. The Scottish Government has published a draft strategy for biodiversity, which sets out ambitions for Scotland to be Nature Positive by 2030 and to have restored and regenerated biodiversity across the country by 2045 [17].
+5.  **Amenity**: The proposed development may have a negative impact on the amenity of neighboring properties due to **noise and vibration** from blasting [36]. **Policy Env 33** of the City Plan 2030 requires that developments should not negatively impact the amenity of neighboring properties regarding noise [37]. **NPF4 policy 33** demands that noise and vibration levels must be acceptable [26]. A vibration assessment has been undertaken [36].
+6.  **Cumulative Impacts**: Both City Plan 2030 and NPF4 require consideration of cumulative impacts [26, 38]. Residents must highlight the combined effect of the quarry expansion and other developments such as the Lost Shore Surf Resort on noise, traffic, and visual amenity.
 
-The proposed expansion of Bonnington Mains Quarry poses significant threats to our local environment and community. I urge the City of Edinburgh Council to reject this application due to these clear breaches of policy and the detrimental impact it will have. The application does not adequately address the impact of the development on the community.
+#### How to Formulate Effective Objections
 
-Thank you for considering my objection.
+Residents should focus on the following points to object to the planning application:
 
-Sincerely,
+*   **Visual Impact:** Argue that the quarry extension will significantly alter the rural landscape, referencing specific viewpoints and the visual impact on residential properties.
+*   **Environmental Pollution:** Raise concerns about potential groundwater contamination from the infilling process, demanding detailed analysis of the infill material and its impact on water quality.
+*   **Noise and Vibration:** Object to the impact of noise and vibration from increased quarrying and blasting activities, especially in proximity to residential properties.
+*   **Traffic and Transportation**: Demand a comprehensive traffic assessment which addresses the cumulative impact of all developments in the area including the Lost Shore Surf Resort.
+*   **Biodiversity**: Highlight the potential risk to local habitats and protected species, and demand further ecological surveys.
+*   **Amenity:** Emphasize the negative impact on the quality of life for residents due to increased noise, dust, and vibration.
+*   **Cumulative Impacts:** The combined impact of this development with other proposed developments in the area should be a key concern.
+*   **Lack of Detail:** Point out the application lacks critical details about the infilling process and management of the MRP, demanding a more comprehensive plan on how the recycling plant will work and how the infill material will be managed.
 
-[Your Name]
-[Your Address]
-[Your Email]
-[Your Phone Number]
+By focusing on these concerns and referring to the relevant policies of the **City Plan 2030** and the **National Planning Framework 4 (NPF4)**, residents can present strong, well-supported objections to the proposed quarry expansion.
+
+It's crucial to remember that comments made during the pre-application consultation are not formal representations to the planning authority [39]. Formal representations can be made once the planning application has been submitted [39]. The planning authority will not determine the application if pre-application consultation requirements have not been met [39]. The applicant must prepare a report outlining the pre-application consultation process, and demonstrate that the public was aware that pre-application consultation does not replace the formal application process [39, 40]. The planning application cannot be submitted less than 12 weeks from the date the Proposal of Application Notice is received [40]. The application was submitted on the 29th November 2024 [1]. The Proposal of Application Notice was received on 1st August 2023 [3, 4].
+
+This detailed analysis provides a solid foundation for residents to effectively object to the proposed Bonnington Mains Quarry expansion.
