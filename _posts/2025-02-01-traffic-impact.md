@@ -1,6 +1,6 @@
 ---
-title: "Analysis of Bonnington Mains Quarry Expansion: Traffic, Policy, and Community Objections"
-date: 2025-02-03
+title: "Traffic Analysis"
+date: 2025-02-01
 categories: [planning, community, environment]
 tags: [bonnington mains, quarry, planning objection, traffic, city plan 2030, npf4]
 ---
