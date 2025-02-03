@@ -1,6 +1,6 @@
 ---
 title: "Critical Analysis of Bonnington Mains Quarry Noise Report and Objections Guidance"
-date: 2025-02-03
+date: 2025-02-01
 categories:
   - planning
   - noise
