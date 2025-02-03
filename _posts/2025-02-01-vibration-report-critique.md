@@ -1,6 +1,6 @@
 ---
 title: Critique of Bonnington Mains Quarry Vibration Assessment
-date: 2024-07-27
+date: 2025-02-01
 categories: [planning, environment, local]
 tags: [quarry, vibration, blasting, planning policy, objections]
 ---
