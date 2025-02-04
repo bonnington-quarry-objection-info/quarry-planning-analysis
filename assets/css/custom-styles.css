@@ -121,16 +121,21 @@
 
 /* Audio Player Styling within Box Note */
 .box-note .custom-audio-player {
-    margin: 1.5rem 0 0.5rem 0;
+    margin: 1.5rem auto;  /* Changed from '1.5rem 0 0.5rem 0' to center */
     padding: 1rem;
     background-color: white;
     border-radius: 8px;
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.05);
+    max-width: 500px;     /* Added max-width for better control */
+    display: flex;        /* Added flex container */
+    flex-direction: column;
+    align-items: center;  /* Center children horizontally */
 }
 
 .box-note .custom-audio-player audio {
-    width: 100%;
+    width: 100%;         /* Take full width of container */
     height: 40px;
+    display: block;      /* Ensure proper block display */
 }
 
 .box-note .audio-caption {
@@ -138,6 +143,7 @@
     color: #666;
     font-size: 0.85rem;
     margin-top: 0.5rem;
+    width: 100%;         /* Take full width for proper centering */
 }
 
 /* Audio Controls Styling */
