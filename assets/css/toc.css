@@ -1,0 +1,34 @@
+#markdown-toc {
+    border: 1px solid #aaa;
+    padding: 1.5em;
+    background: #f9f9f9;
+    display: inline-block;
+    margin-bottom: 20px;
+    border-radius: 4px;
+}
+
+#markdown-toc::before {
+    content: "Table of Contents";
+    font-weight: bold;
+    font-size: 1.1em;
+    display: block;
+    margin-bottom: 10px;
+}
+
+#markdown-toc {
+    list-style: decimal;
+}
+
+#markdown-toc li {
+    margin-left: 20px;
+}
+
+#markdown-toc a {
+    color: #404040;
+    text-decoration: none;
+}
+
+#markdown-toc a:hover {
+    color: #0085A1;
+    text-decoration: underline;
+}

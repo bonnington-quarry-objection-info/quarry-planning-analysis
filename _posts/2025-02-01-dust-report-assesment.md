@@ -9,7 +9,8 @@ categories: [planning, environment, local]
 tags: [quarry, dust, air quality, planning policy, objections]
 
 ---
-{% include toc.html %}
+* TOC
+  {:toc}
 
 ## Critique of Bonnington Mains Quarry Dust Assessment
 
