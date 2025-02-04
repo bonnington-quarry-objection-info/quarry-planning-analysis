@@ -1,15 +1,16 @@
 <div class="toc">
-  <h2>Contents</h2>
+  <h2>Table of Contents</h2>
   <ul>
+    {% assign firstHeader = true %}
     {% assign headers = content | split: '<h' %}
     {% for header in headers %}
-    {% if header contains '</h' %}
-    {% assign headerLevel = header | first %}
+    {% if header contains '/h' %}
+    {% assign headerLevel = header | truncate: 1, '' %}
     {% if headerLevel == "2" or headerLevel == "3" %}
-    {% assign headerText = header | split: '>' | second | split: '</h' | first %}
-    {% assign headerID = headerText | downcase | replace: ' ', '-' | replace: '.', '' | replace: ':', '' %}
+    {% assign headerText = header | split: '>' | last | split: '</h' | first | strip_html %}
+    {% assign headerLink = headerText | downcase | replace: ' ', '-' | replace: '.', '' | replace: ',', '' | replace: ':', '' | replace: ';', '' | replace: '/', '' | replace: '(', '' | replace: ')', '' %}
     <li class="toc-h{{ headerLevel }}">
-      <a href="#{{ headerID }}">{{ headerText }}</a>
+      <a href="#{{ headerLink }}">{{ headerText }}</a>
     </li>
     {% endif %}
     {% endif %}
