@@ -1,0 +1,26 @@
+#markdown-toc {
+    background-color: #f8f9fa;
+    padding: 20px 30px;
+    border-radius: 5px;
+    margin: 20px 0;
+}
+
+#markdown-toc::before {
+    content: "Contents";
+    font-weight: bold;
+    font-size: 1.1em;
+    margin-bottom: 10px;
+    display: block;
+}
+
+#markdown-toc li {
+    margin-bottom: 8px;
+}
+
+#markdown-toc a {
+    text-decoration: none;
+}
+
+#markdown-toc a:hover {
+    text-decoration: underline;
+}
