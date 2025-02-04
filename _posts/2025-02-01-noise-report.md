@@ -11,6 +11,9 @@ categories:
 
 This post provides a critical analysis of the noise report for the proposed expansion of Bonnington Mains Quarry, identifies potential breaches of planning policies, and offers guidance for residents who wish to write objection letters.
 
+* TOC
+  {:toc}
+
 ### Critical Analysis of the Noise Report
 
 The noise assessment for the Bonnington Mains Quarry expansion uses modeling and baseline surveys to predict noise impacts at sensitive receptors. The assessment relies on **BS 5228-1: 2009+A1-2014** and **Planning Advice Note (PAN) 50, Annex A** for guidance. The report also references **British Standard 8233:2014** and the **World Health Organization (WHO) “Guidelines for Community Noise”**. Baseline noise levels were established in September 2023, with measurements taken at several locations, including:

@@ -8,6 +8,9 @@ tags: [quarry, vibration, blasting, planning policy, objections]
 This post provides an in-depth analysis of the planning application for the proposed expansion of Bonnington Mains Quarry. It draws upon information from the provided [documents](https://citydev-portal.edinburgh.gov.uk/idoxpa-web/applicationDetails.do?activeTab=documents&keyVal=SNPUZREWGDP00)
 to offer a comprehensive understanding of the project, address key concerns, and guide residents in formulating effective objections.
 
+* TOC
+  {:toc}
+
 #### Project Overview
 
 **Breedon Trading Limited and Brewster Brothers Limited** have jointly submitted a planning application to extend operations at Bonnington Mains Quarry. The application seeks permission for:
