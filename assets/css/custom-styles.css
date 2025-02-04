@@ -32,22 +32,37 @@
     text-decoration: underline;
 }
 
+
+
+
 /* Base Audio Player Styling */
 .custom-audio-player {
     width: 100%;
     max-width: 500px;
     margin: 2rem auto;
-    display: flex;
-    flex-direction: column;
-    align-items: center;
+    text-align: center; /* Add this */
 }
 
 .custom-audio-player audio {
     width: 100%;
+    max-width: 500px; /* Add this */
+    margin: 0 auto; /* Add this */
+    display: block; /* Keep this */
     height: 40px;
+}
+
+audio {
+    margin: 0 auto;
     display: block;
 }
 
+
+
+/* Optional: Add this if the audio element itself needs explicit centering */
+audio {
+    margin: 0 auto;
+    display: block;
+}
 /* Webkit (Chrome, Safari) specific styles */
 .custom-audio-player audio::-webkit-media-controls-panel {
     background-color: #f8f9fa;
@@ -71,6 +86,16 @@
     margin-top: 0.5rem;
 }
 
+
+
+/* Audio Player Styling within Box Note */
+.box-note .custom-audio-player {
+    margin: 1.5rem auto;
+    padding: 1rem;
+    background-color: white;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.05);
+}
 
 /* Box Note with Audio Player Styling */
 .box-note {
@@ -118,19 +143,6 @@
     font-size: 0.9rem;
     color: #666;
     margin: 1rem 0;
-}
-
-/* Audio Player Styling within Box Note */
-.box-note .custom-audio-player {
-    margin: 1.5rem auto;  /* Changed from '1.5rem 0 0.5rem 0' to center */
-    padding: 1rem;
-    background-color: white;
-    border-radius: 8px;
-    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.05);
-    max-width: 500px;     /* Added max-width for better control */
-    display: flex;        /* Added flex container */
-    flex-direction: column;
-    align-items: center;  /* Center children horizontally */
 }
 
 .box-note .custom-audio-player audio {
