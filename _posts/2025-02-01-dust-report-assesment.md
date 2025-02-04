@@ -7,7 +7,6 @@ date: 2025-02-01
 categories: [planning, environment, local]
 
 tags: [quarry, dust, air quality, planning policy, objections]
-layout: base
 toc: true
 
 ---
