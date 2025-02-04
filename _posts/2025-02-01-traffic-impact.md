@@ -9,8 +9,7 @@ tags: [bonnington mains, quarry, planning objection, traffic, city plan 2030, np
 
 The proposed expansion of Bonnington Mains Quarry raises several important questions about traffic impact, policy compliance, and community well-being. This post analyzes these aspects and provides suggestions for local residents who wish to object to the development.
 
-* TOC
-  {:toc}
+
 
 ## Traffic Impact Analysis
 

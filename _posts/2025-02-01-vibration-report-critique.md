@@ -9,8 +9,6 @@ tags: [quarry, vibration, blasting, planning policy, objections]
 
 The vibration assessment for the proposed Bonnington Mains Quarry extension concludes that the development can operate without causing damage or significant nuisance from blasting, provided mitigation measures are implemented. The assessment uses a site-specific regression analysis and predicts that with techniques such as ‘decking’ blast holes, vibration levels at nearby receptors will comply with existing planning limits and guidelines. However, a closer look reveals some shortcomings in the approach, assumptions, and conclusions of the assessment.
 
-* TOC
-  {:toc}
 
 ### Summary of the Vibration Assessment
 

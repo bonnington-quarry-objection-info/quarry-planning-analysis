@@ -11,8 +11,6 @@ categories:
 
 This post provides a critical analysis of the noise report for the proposed expansion of Bonnington Mains Quarry, identifies potential breaches of planning policies, and offers guidance for residents who wish to write objection letters.
 
-* TOC
-  {:toc}
 
 ### Critical Analysis of the Noise Report
 
