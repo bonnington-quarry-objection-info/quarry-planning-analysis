@@ -1,26 +1,33 @@
-#markdown-toc {
+.toc {
     background-color: #f8f9fa;
-    padding: 20px 30px;
+    padding: 20px;
     border-radius: 5px;
     margin: 20px 0;
 }
 
-#markdown-toc::before {
-    content: "Contents";
-    font-weight: bold;
-    font-size: 1.1em;
-    margin-bottom: 10px;
-    display: block;
+.toc h2 {
+    margin-top: 0;
+    font-size: 1.5em;
 }
 
-#markdown-toc li {
-    margin-bottom: 8px;
+.toc ul {
+    list-style-type: none;
+    padding-left: 0;
 }
 
-#markdown-toc a {
+.toc-h2 {
+    margin-left: 0;
+}
+
+.toc-h3 {
+    margin-left: 20px;
+}
+
+.toc a {
     text-decoration: none;
+    color: #404040;
 }
 
-#markdown-toc a:hover {
+.toc a:hover {
     text-decoration: underline;
 }
