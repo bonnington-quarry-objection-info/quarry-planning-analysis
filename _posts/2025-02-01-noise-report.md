@@ -23,14 +23,47 @@ The noise assessment for the Bonnington Mains Quarry expansion uses modeling and
 
 Key findings of the noise report include:
 
-*   **Compliance with Existing Limits:** The report states that predicted noise levels generally comply with the existing noise limits of planning consent **22/02514/FUL** and the limits suggested in PAN 50 Annex A.
+*   **Compliance with Existing Limits:** The report states that predicted noise levels generally comply with the existing noise limits of planning consent **24/05865/FUL** and the limits suggested in PAN 50 Annex A.
 *   **Temporary Operations:** During temporary operations, such as soil stripping, the noise limit is set at 70dB LAeq over any one hour period for a maximum of 8 weeks per year. The predicted levels for soil stripping are below this limit.
 *   **Acoustic Barriers:** The report mentions the use of acoustic barriers/bunds as a mitigation measure.
 *   **Cumulative Effects:** The report considers cumulative noise effects from the quarry and the Lost Shore Surf Resort and concludes that they remain within acceptable limits.
 
 However, there are several points that need critical assessment:
 
-*   **"Quieter Rural Area" Limits:** The report notes that the existing planning consents are based on PAN 50 criteria recommended for **"quieter rural areas"**. Given the level of development in the area, the report suggests that a noise limit of **55dB LAeq,1h** should be applied as a daytime noise limit at all sensitive properties. This shift from the "quieter rural area" designation is a crucial point that could be challenged, as the area is arguably not a "quieter rural area."
+*   **"Quieter Rural Area" Limits:** The report notes that the existing planning consents are based on PAN 50 criteria recommended for **"quieter rural areas"**. Local residents are understandably concerned about the proposed quarry extension and its potential impact on the "quiet rural" character of the Bonnington Mains area. While there have been some developments in the area, there are still strong arguments for maintaining its designation as a quiet rural area. Here’s a detailed counter-argument based on the available evidence:
+
+#### Why Bonnington Mains Still Qualifies as a "Quiet Rural Area"
+
+*   **Proximity to the Ratho Hills Special Landscape Area (SLA):** The area's close proximity to the Ratho Hills SLA indicates that it is part of a landscape valued for its rural qualities [conversation history]. Even though the proposed development is not *within* the SLA, its location *adjacent* to it means it should not negatively impact the SLA’s status or the character of its surroundings [conversation history].
+*   **Farmland and Open Space:** The presence of farmland like "Bonnington Farmland" contributes significantly to the rural character of the area [conversation history]. These open spaces, though perhaps fragmented, have some scenic quality, which is often associated with quieter, less developed areas [conversation history]. It is crucial to protect these open areas [conversation history].
+*   **Ecological Value:** The area's ecological assets, including a watercourse, semi-improved grasslands, and broadleaved plantation woodland, all bolster its rural nature [conversation history]. These habitats should be protected, and the proposed quarry extension would result in habitat loss, which should be avoided [conversation history].
+*   **Sensitivity to Change:** The area's designation as having a "medium/low sensitivity" to the proposed quarry development implies that it currently possesses characteristics of a quiet rural area [conversation history]. Changing this designation means the loss of its current quiet nature [conversation history].
+*   **Low Noise Levels:** Despite some areas with higher noise levels, it's crucial to note that noise levels at some receptors are relatively low [conversation history]. For example, a level of 42 dB was recorded at Ratho Mains Farm [conversation history].  While 55 dB is a typical limit, the existing planning conditions (24/05865/FUL) are based on a more stringent level reflecting a quieter rural environment [conversation history].
+*   **Existing Planning Conditions:**  The existing planning conditions are based on the most stringent daytime limit suggested in PAN 50, Annex A; a limit of no more than 10dB(A) above the existing background noise level [conversation history]. This indicates that the area has previously been recognized as a quieter area and not one with higher ambient noise levels [conversation history].
+*   **Impact of the Proposed Development**:  The proposed development would negatively affect the quiet rural area. It would increase noise levels and bring industrial activity closer to residential areas, thereby affecting the amenity of local residents [conversation history].  It would also result in the loss of farmland and semi-improved grassland [conversation history].  Increased traffic would further disrupt the rural character [conversation history].
+
+### The Cumulative Impact Matters
+
+*   **Cumulative Impact:**  It is important to consider the cumulative impact of the proposed quarry extension alongside other developments like the Lost Shore Surf Resort, Cala Homes, and existing industrial facilities [conversation history]. These factors, when considered together, degrade the rural character of the area [conversation history].
+*   **PAN 50 Guidelines**: Planning Advice Note 50 (PAN 50) mentions that a noise limit of 55 dB LAeq,1h may be appropriate in quieter rural areas [conversation history]. The existing planning conditions, based on a 10dB(A) increase over background noise, indicate that the area has previously been categorized as a quiet area [conversation history].
+*   **Tranquility:**  Although it may not be considered "remote" or "wild," the area possesses a level of tranquility that is valued by local residents [conversation history]. The sources acknowledge that "traffic noise and quarry operations" currently "preclude tranquility", and the proposed development would only worsen this issue [conversation history].
+
+### Conclusion
+
+In summary, despite some developmental pressures, the Bonnington Mains area retains characteristics of a quiet rural area. The preservation of open spaces, maintenance of acceptable noise levels, and protection of ecological features are crucial. By emphasizing these points, local residents can make a strong case for maintaining the current "quiet rural area" designation and preventing further industrial encroachment [conversation history]. **The proposed development should not be allowed to degrade the remaining rural character of the area.**
+This markdown is designed to be easily pasted into a Jekyll blog post. The bold formatting helps to highlight the key arguments for readers.
+
+
+Start typing...
+43 sources
+
+
+
+Studio
+Audio Overview
+Click to load the conversation.
+Notes
+
 *   **Worst-Case Predictions:** Although the report claims that levels are within limits, the assessment is based on predicted worst-case scenarios, which may not always be the reality. The report does not fully address the range of noise that residents may experience.
 *  **Subjective Experience:** The report does not fully account for the subjective experience of noise and its potential for annoyance. While levels might technically be within limits, the character, timing, and duration of the noise could still cause disruption and distress.
 *  **Night-time Operations:** The report mentions night-time operations and sets a limit of NR25 for the asphalt plant. However, there are no specific predictions given for noise levels at night at sensitive receptors, and the potential impact on sleep is not addressed in detail.
